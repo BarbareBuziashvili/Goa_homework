@@ -1,5 +1,0 @@
-<p>Barbare Buziashvili</p>
-<p>10</p>
-
-
-<button>click my</button>

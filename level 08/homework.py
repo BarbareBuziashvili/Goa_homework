@@ -1,10 +1,6 @@
 lemur=10
 lemur_mango=5
 print(lemur-lemur_mango)
-
-# 2 print("Hello, world!") 
-
-# 3  x = 5
 #    y = 4
 #    print(x + y)
 
@@ -19,3 +15,6 @@ print(lemur-lemur_mango)
 
 # 6 age = 25
 #   print(age + 5)
+# 2 print("Hello, world!") 
+
+# 3  x = 5
